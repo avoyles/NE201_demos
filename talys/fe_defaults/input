@@ -1,0 +1,14 @@
+#
+# General
+#
+projectile p
+element Cu
+mass 0
+energy 1 70 1
+Ebeam 70
+#
+# Output
+#
+outpreequilibrium   y
+outspectra          y
+#production          y
